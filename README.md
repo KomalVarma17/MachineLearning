@@ -6,7 +6,7 @@ As part of my recent project, I tackled the challenge of predicting the approval
 **Approach and Implementation:**
 To address this challenge, I developed a comprehensive machine learning pipeline that involved several critical steps:
 1. Data Analysis and Preparation:
-- I began by exploring the dataset to understand class distribution and identify any class imbalance.
+- began by exploring the dataset to understand class distribution and identify any class imbalance.
 - Preprocessed the data by handling missing values, selecting relevant features, and engineering new features from date-time information to enhance the model's predictive capabilities.
 - Applied one-hot encoding to convert categorical variables into a suitable numerical format for machine learning algorithms.
 2. Balancing the Dataset:
@@ -18,4 +18,4 @@ To address this challenge, I developed a comprehensive machine learning pipeline
 5. Prediction and Results:
 - Processed test data using the same preprocessing steps and generated predictions for submission, ensuring consistency and accuracy in the results.
 
-This project successfully automated the project approval prediction process, enhancing operational efficiency for the EducationFirst platform. By applying machine learning techniques and thorough data analysis, I developed a model that improves the accuracy and efficiency of project approvals. This experience demonstrates my ability to handle complex data tasks and apply machine learning solutions to real-world problems.
+This project successfully automated the project approval prediction process, enhancing operational efficiency for the EducationFirst platform. By applying machine learning techniques and thorough data analysis,  developed a model that improves the accuracy and efficiency of project approvals. This experience demonstrates my ability to handle complex data tasks and apply machine learning solutions to real-world problems.
