@@ -48,7 +48,7 @@ This project aims to predict employee attrition and estimate the expected salary
 
 ## Final Results
 - **Attrition Prediction Accuracy (Random Forest + SMOTE)**: 93.11%
-- **Salary Prediction Accuracy (Ridge and Random Forest Regressor)**: R² > 0.999
+- **Salary Prediction Accuracy (Ridge and Random Forest Regressor)**: R² = 0.994
 - **Total Expected Salary Loss (for \"Likely to Stay\" employees)**: INR 860,099
 
 ---
