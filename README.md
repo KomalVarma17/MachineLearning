@@ -15,17 +15,6 @@ The system solves three challenges:
 
 ⸻
 
-🛠️ Key Technologies
-	•	Backend Framework → FastAPI / Flask
-	•	OCR → Gemini Vision Pro API
-	•	NLP → Sentence Transformers for embeddings
-	•	Similarity Search → Cosine similarity on vector representations
-	•	Containerization → Docker for reproducible builds
-	•	Deployment → Cloud-ready via Docker (GCP, Render, Railway, or Cloud Run)
-	•	Frontend (optional extension) → Basic HTML interface for pharmacists/patients
-
-⸻
-
 🚀 Features & Benefits
 	•	Automated substitute search → reduces manual lookup time.
 	•	REST API with docs → /predict, /healthz, /batch.
@@ -36,9 +25,9 @@ The system solves three challenges:
 ⸻
 
 ✅ Project Outcomes
-	•	Working API that extracts prescriptions and suggests substitutes.
-	•	Containerized and deployable with a single docker run.
-	•	Demonstrated ability to combine ML pipelines with production-style software practices.
+	•	Automated extraction of prescriptions and substitutes.
+	•	Successfully deployed as a containerized microservice.
+	•	Demonstrated integration of ML/NLP models with production-ready backend practices.
 
 ⸻
 
@@ -46,4 +35,21 @@ The system solves three challenges:
 	•	HTML/JS Web Dashboard for pharmacists/patients.
 	•	Real-time inventory check via pharmacy APIs.
 	•	CI/CD pipeline with GitHub Actions + Cloud Run/Fly.io.
-	•	Feedback loop to improve substitute recommendations.
+	•	Feedback loop to refine substitute recommendations.
+
+⸻
+
+📖 Tech Stack & Technologies
+	•	Backend Framework: FastAPI / Flask
+	•	Machine Learning & NLP: PyTorch, Sentence Transformers
+	•	OCR: Gemini Vision Pro API
+	•	Similarity Search: Cosine similarity on embeddings
+	•	Infrastructure: Docker, Cloud Run / Render / Railway for deployment
+	•	Data Tools: Pandas, Pillow
+	•	Frontend (optional extension): HTML, CSS, JavaScript
+
+⸻
+
+🤝 Contribution & License
+	•	Open for extension and adaptation.
+	•	License: MIT
